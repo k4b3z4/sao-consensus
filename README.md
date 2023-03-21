@@ -18,6 +18,7 @@ go version go1.19.1 darwin/amd64
 
 ```bash
 $ git clone https://github.com/SaoNetwork/sao-consensus.git
+$ cd sao-consensus
 $ git checkout testnet1
 $ make 
 $ which saod
